@@ -35,14 +35,19 @@ That's all I can think of, wouldn't want to make it cringe now, lol.
 - Samsung Galaxy S25 (everyday use)
 - Samsung Galaxy A40 (used to test FortitudeOS)
 - Samsung Galaxy A52S (used to test FortitudeOS)
-- Samsung Galaxy Tab A7 (used for watching Anime, movies, etc)
-- Aamazon Fire Tablet HD 8 (used for watching Anime, movies, etc)
+- Samsung Galaxy Tab A7 (used for watching Anime, movies, etc)  
+
+- Aamazon Fire Tablet HD 8 (used for watching Anime, movies, etc)  
+
 - Huawei P8 (used for general testing)
-- Huawei P30 Pro (used for general testing)
+- Huawei P30 Pro (used for general testing)  
+
 - iPhone XR (used to test various jailbreaks, apps & projects)
 - iPhone 14 Pro (used to test IOS apps)
+
 - GeoBook 1E laptop (Intel Celeron CPU, 4GB RAM, 60GB storage, Windows 10 Pro modified)
 - Custom PC (AMD Ryzen 9 CPU, 10TB storage, 128GB RAM, Windows 11 Pro modified)
+
 - PlayStation 3 Fat (backwards compatible)
 - PlayStation 3 Slim (stock)
 - PlayStation 3 Slim (HFW 4.86 - GemBox DEX)
@@ -50,11 +55,15 @@ That's all I can think of, wouldn't want to make it cringe now, lol.
 - PlayStation 3 DevKit (stock)
 - PlayStation 4 Pro (5.05 - GoldHEN 2.3)
 - PlayStation 5 (4.02 - ETA-HEN 2.0B)
+
 - Xbox 360 (stock)
+
 - NAS server (960GB storage, 256GB RAM)
-- Raspberry Pi 5 cluster (X8 Pi's)
-- Flipper Zero (Fortitude custom firmware)
 - Dedicated home server (1.2PB storage, 1TB RAM)
+
+- Raspberry Pi 5 cluster (X8 Pi's)
+
+- Flipper Zero (Fortitude custom firmware)
 
 ### What I Work With
 The keys below represent how confident I am and how much I know:
