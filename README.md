@@ -37,6 +37,8 @@ That's all I can think of, wouldn't want to make it cringe now, lol.
 - Samsung Galaxy A52S (used to test FortitudeOS)
 - Samsung Galaxy Tab A7 (used for watching Anime, movies, etc)
 - Aamazon Fire Tablet HD 8 (used for watching Anime, movies, etc)
+- Huawei P8 (used for general testing)
+- Huawei P30 Pro (used for general testing)
 - iPhone XR (used to test various jailbreaks, apps & projects)
 - iPhone 14 Pro (used to test IOS apps)
 - GeoBook 1E laptop (Intel Celeron CPU, 4GB RAM, 60GB storage, Windows 10 Pro modified)
