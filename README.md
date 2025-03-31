@@ -8,6 +8,8 @@ Hey there, My name is Matt and welcome to My "portfolio" of sorts! I'm 21 years 
 - Painting & drawing
 - Animation & graphical design (SFW / NSFW)
 - Working out (not really a hobby but I'm obsessed with staying fit and healthy)
+- Web, app & game development
+- YouTube
 
 ---
 
@@ -33,8 +35,10 @@ That's all I can think of, wouldn't want to make it cringe now, lol.
 - Samsung Galaxy S25 (everyday use)
 - Samsung Galaxy A40 (used to test FortitudeOS)
 - Samsung Galaxy A52S (used to test FortitudeOS)
+- Samsung Galaxy Tab A7 (used for watching Anime, movies, etc)
+- Aamazon Fire Tablet HD 8 (used for watching Anime, movies, etc)
 - iPhone XR (used to test various jailbreaks, apps & projects)
-- iPhone 14 Pro (stock)
+- iPhone 14 Pro (used to test IOS apps)
 - GeoBook 1E laptop (Intel Celeron CPU, 4GB RAM, 60GB storage, Windows 10 Pro modified)
 - Custom PC (AMD Ryzen 9 CPU, 10TB storage, 128GB RAM, Windows 11 Pro modified)
 - PlayStation 3 Fat (backwards compatible)
@@ -51,26 +55,29 @@ That's all I can think of, wouldn't want to make it cringe now, lol.
 - Dedicated home server (1.2PB storage, 1TB RAM)
 
 ### What I Work With
-- HTML4, HTML5
-- PHP
-- CSS2, CSS3, SASS, TailWind CSS
-- SQL-Lite, MySQL
-- MongoDB
-- MarkDown
-- Batch
-- Python
-- Java
-- ES3, JavaScript
-- VBS
-- Shell Scripting
-- C, CPP, CS
-- Ruby
-- Swift
-- Kotlin
-- GoLang
-- Dark
-- Elixir
-- ReactNative
+The keys below represent how confident I am and how much I know:
+🟢 Confident / 🟡 Partial knowledge / 🟠 Still learning
+
+- 🟢 HTML4, HTML5
+- 🟢 PHP
+- 🟢 CSS2, CSS3, SASS, TailWind CSS
+- 🟢 SQL-Lite, MySQL
+- 🟡 MongoDB
+- 🟢 MarkDown
+- 🟢 Batch
+- 🟢 Python
+- 🟡 Java
+- 🟢 ES3, JavaScript
+- 🟢 VBS
+- 🟢 Shell Scripting
+- 🟢 C, CPP, CS
+- 🟡 Ruby
+- 🟡 Swift
+- 🟢 Kotlin
+- 🟡 GoLang
+- 🟠 Dark
+- 🟡 Elixir
+- 🟢 ReactNative
 
 ### Software & Services I Use
 - Brackets (general development)
